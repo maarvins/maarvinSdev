@@ -85,12 +85,14 @@ p {
 
 .top-container {
   background-color: #E4F9F5;
+  max-width: 100%;
   padding-top: 100px;
   position: relative;
                }
 
 .middle-container {
   background-color:  #E4F9F5;
+  max-width: 100%;                
                   }
 
 .top-cloud {
