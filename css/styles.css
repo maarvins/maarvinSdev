@@ -13,12 +13,12 @@ body {
 .skills {
   bottom: 140px;
   position: relative;
-  right: 280px;
+  right: 100px;
        }
 
 .secondskill {
   bottom: 140px;
-  left: 280px;
+  left: 80px;
   position: relative;
   width: 300px;
 }
